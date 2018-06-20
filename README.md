@@ -4,7 +4,7 @@ About Server
 ### This project is about Configuring the linux servers.
 ### Details About The Server:
 Server IP address: 
-##### Url site : 
+##### UrlSite : http://13.232.90.166.xip.io
 ##### open awazon lightsail.com and create an instance that we want for project and static ip address for it.
 ### To connect to grader:
 #### Download the file that is having our private key when we created our instance in the lightsail amazon.com
